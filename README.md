@@ -1,2 +1,3 @@
-# prime-chat-app-ekq2
-Automated issue comment bot repository
+# Prime Chat App Ekq2
+
+Automated issue comment bot repository.
